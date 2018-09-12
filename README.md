@@ -19,5 +19,5 @@ This is a work in progress, if you find a mistake, please [file an issue](https:
 * (Optional) Node is required in the last step to deploy to Firebase
 
 ## App Deployed At
-* http//:firstpwa-f6b8e.firebase.com
+* http//:firstpwa-f6b8e.firebaseapp.com
 * All app datat is stored in the work folder. I will update this folder as I explore Web Apps.
